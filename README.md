@@ -1,6 +1,6 @@
 # JSDec
 
-本项目fork自[liulihaocai/JSDec](https://github.com/liulihaocai/JSDec)，在此基础上进行些修改。
+本项目fork自[liulihaocai/JSDec](https://github.com/liulihaocai/JSDec)， 在此基础上进行些修改。感谢原作者的努力！
 
 
 
